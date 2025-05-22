@@ -7,7 +7,7 @@ NEST (New Environment Setup Tool) è una suite di script PowerShell per la gesti
 ## Funzionalità principali
 
 1. **Menu interattivo**
-   - Avvio tramite [Nest.ps1](Nest.ps1)
+   - Avvio tramite [NEST.ps1](NEST.ps1)
    - Permette di selezionare ed eseguire gli script disponibili nella cartella `source/` e sottocartelle.
 
 2. **Gestione variabili di ambiente**
